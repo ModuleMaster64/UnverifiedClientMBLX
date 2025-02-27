@@ -1,14 +1,14 @@
-// ==User Script==
+// ==UserScript==
 // @name         unverified v1
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  Miniblox client that is supposed to work except I'm not sure it works correctly -_-
-// @author       Wytlines, Andreypidd, Fizzy, Loqle, Heythereu
+// @version      1.5
+// @description  Miniblox client!
+// @author       Wytlines, Andreypidd, Fizzy, Loqle, Heythereu ee6-lang
 // @icon         https://cdn.glitch.global/33d72df5-1609-416b-9b20-b2d6f6548081/Untitled%20image%20(1).jpeg?v=1734041345350
 // @match        https://miniblox.io/*
 // @grant        GM_setValue
 // @grant        GM_getValue
-// ==/User Script==
+// ==/UserScript==
 
 (function () {
     'use strict';
