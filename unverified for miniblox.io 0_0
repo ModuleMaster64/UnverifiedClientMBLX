@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         unverified! with ripples!
 // @namespace    http://tampermonkey.net/
-// @version      2
+// @version      2.1
 // @description  Miniblox client
 // @author       Wytlines, Andreypidd, Fizzy, Loqle, Heythereu ee6-lang
 // @icon         https://cdn.glitch.global/33d72df5-1609-416b-9b20-b2d6f6548081/Untitled%20image%20(1).jpeg?v=1734041345350
@@ -51,7 +51,7 @@
     moduleElements.appendChild(demoWatermark);
 
     let cpsDisplay, fpsDisplay, cps = 0, totalClicks = 0, cpsToDisplay = 0, prevCPS = 0, cpsCounterInterval, fps = 0, lastEndTimestamp = performance.now(), font = document.body.style.fontFamily;
-    let cpsHistory = [], historyLength = 10; // Store the last 10 seconds of CPS
+    let cpsHistory = [], historyLength = 1000000; 
 
     function displayCPSCounter() {
         cpsDisplay = document.createElement('div');
