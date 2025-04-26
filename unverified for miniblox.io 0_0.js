@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         unverified! with ripples!
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2
 // @description  Miniblox client
 // @author       Wytlines, Andreypidd, Fizzy, Loqle, Heythereu ee6-lang
 // @icon         https://cdn.glitch.global/33d72df5-1609-416b-9b20-b2d6f6548081/Untitled%20image%20(1).jpeg?v=1734041345350
