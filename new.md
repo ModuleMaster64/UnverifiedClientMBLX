@@ -19,6 +19,4 @@ if you need helpful code ai use blackbox.ai!
 
 i used a bit of blackbox.ai help as well.
 
-i might put this on github too
-
 more things coming soon...
