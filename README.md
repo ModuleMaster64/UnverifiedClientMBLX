@@ -1,10 +1,10 @@
-Features added:
+Features added on v2
 
-CPS calculation
-Ripple Effect on Clicks
-Shortcuts on CPS (c) and FPS (f) 
-postioning of CPS and FPS when reloaded
+CPS calculations
+Red Ripple Effect on left click
+Keyboard Shortcuts on CPS (c) and FPS (f) 
+Postioning of CPS and FPS when you manually reload
 Throttled FPS Updates
 Debounced CPS Updates
-Improved Display Information
-and Code Cleanliness
+Improved the Display Information
+and kept the Code clean.
